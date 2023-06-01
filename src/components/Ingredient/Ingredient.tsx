@@ -1,7 +1,7 @@
 import React from "react";
-import './Ingredient.css'
+import "./Ingredient.css";
 import meatImage from "../../assets/ic-meat.png";
-import cheeseImage from "../../assets/ic-sheese.png";
+import cheeseImage from "../../assets/ic-cheese.png";
 import saladImage from "../../assets/ic-salad.png";
 import baconImage from "../../assets/ic-bacon.png";
 
