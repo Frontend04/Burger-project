@@ -1,5 +1,5 @@
 import React from "react";
-
+import './Ingredient.css'
 import meatImage from "../../assets/ic-meat.png";
 import cheeseImage from "../../assets/ic-sheese.png";
 import saladImage from "../../assets/ic-salad.png";
